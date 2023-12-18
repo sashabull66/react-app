@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <div className="App-logo">*LOGO*</div>
+        <div className="App-logo">*SASHA*</div>
         <p>
           This is test React App Page
         </p>
