@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <div className="App-logo">*SASHA*</div>
         <p>
-          This is test React App Page
+         React App Page
         </p>
         <a
           className="App-link"
